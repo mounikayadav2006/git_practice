@@ -1,5 +1,5 @@
 print("Welcome to our Canteen")
-print("1. Idli - Rs. 40")
+print("1. Idli - Rs. 50")
 print("2. Dosa - Rs. 40")
 print("3. Tea - Rs. 15")
 print("4. Samosa - Rs. 20")
