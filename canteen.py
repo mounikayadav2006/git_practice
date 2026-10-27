@@ -1,5 +1,8 @@
 print("Welcome to our Canteen")
+
 print("1. Idli - Rs. 60")
+
+>>>>>>> teammate-test
 print("2. Dosa - Rs. 40")
 print("3. Tea - Rs. 15")
 print("4. Samosa - Rs. 20")
